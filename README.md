@@ -1,2 +1,2 @@
 # TicTacToe
-Here is my TicTacToe game which I have written in C# and I used WPF Framework
+Here is my TicTacToe game which was written in C# and used WPF Framework
